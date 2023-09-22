@@ -5,7 +5,8 @@ body {
 }
 
 .header {
-    margin: 80px;
+    margin: 100px;
+    margin-left: 50px;
     box-shadow: 20px 100px 100px #173459;
 }
 .backhautimg {
@@ -56,7 +57,7 @@ img {
 }
 
 .premierPartie{
-    margin: 20px;
+    margin: 170px;
     margin-top: 150px;
 }
 
@@ -86,9 +87,8 @@ img {
 }
 
 .titreContDroit_1{
-float: right;
-margin-top: -230px;
-margin-right: 70px;
+margin-top: -210px;
+margin-left: 600px;
 }
 
 ul li{
