@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    margin: 80px;
+    box-shadow: 20px 100px 100px #173459;
+}
+.backhautimg {
+    background-color: rgb(10, 25, 68);
+    width: 170px;
+    height: 170px;
+}
+
+.backhautimg1{
+    background-color: #fff;
+    width: 120px;
+    height: 100px;
+    margin-left: 50px;
+    border-radius: 100px 0 0 0;
+    margin-top: -100px;
+}
+
+.backhautimg2{
+    background-color: #a1b0b1;
+    width: 70px;
+    height: 150px;
+    margin-left: 94.7%;
+    margin-top: -170px;
+    border-radius: 40px 0 0 40px;
+}
+
+img {
+ height: 200px;
+ margin-left: 60px;
+ margin-top: -70px;
+ border-radius: 100px;
+ border: 3px solid rgb(10, 25, 68);
+}
+
+#nom {
+    text-align: center;
+    margin-top: -170px;
+    text-shadow: 2px 2px 3px  rgb(10, 25, 68);
+    font-size: 30px;
+}
+
+#prenom {
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    text-shadow: 2px 2px 3px  rgb(10, 25, 68);
+    font-size: 50px;
+}
+
+.premierPartie{
+    margin: 20px;
+    margin-top: 150px;
+}
+
+.titreCont{
+    background: rgb(10, 25, 68);
+    width: 400px;
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    padding-top: 15px;
+}
+
+#titreContD{
+    background-color: rgb(10, 25, 68);
+    width: 340px;
+    height: 40px;
+    color: #fff;
+    padding-top: 15px;
+    padding-left: 150px;
+    }
+
+.titreContDroit{
+    list-style: none;
+    margin-top: -290px;
+    margin-left: 600px;
+
+}
+
+.titreContDroit_1{
+float: right;
+margin-top: -230px;
+margin-right: 70px;
+}
+
+ul li{
+    padding: 10px;
+}
+
+.bgbas{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+button{
+    margin-left:500px ;
+    height: 50px;
+}
